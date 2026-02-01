@@ -12,7 +12,7 @@ DevOps beadandó feladat weboldal címkészlet feldolgozásról.
 Futtatáshoz használd a main.py -t.
 
 ## Felépítés
-A script az OOP elvek figyelembe vételével készült.
+A script az OOP elveket figyelembe véve készült.
 
 - **main.py**
 A script indítását végzi, a szükséges változókat definiálja és metódusokat hív meg.
