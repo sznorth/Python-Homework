@@ -16,19 +16,19 @@ A script az OOP elveket figyelembe véve készült.
 
 - **main.py**
 A script indítását végzi, a szükséges változókat definiálja és metódusokat hív meg.
-Változók:
-*url*       : a feltérképezendő weboldal címe
-*level*     : tartalom elem szint filter definiálása
-*filename*  : tartalom mentéshez file elnevezés
-*response*  : visszakapott érték tárolása
+**Változók**:
+-- *url*       : a feltérképezendő weboldal címe
+-- *level*     : tartalom elem szint filter definiálása
+-- *filename*  : tartalom mentéshez file elnevezés
+-- *response*  : visszakapott érték tárolása
 
 - **loader.py**
 A különböző műveletek és a *Title* osztály definiálása.
-Title osztály: egy tulajdonságot tartalmaz ez a text
-Metódusok:
-*webmapper*     : letölti és html alapon parsol-ja a tartalmat
-*printFiltered* : letöltött tartalmat filterezi és kiírja kimenetre
-*fileWrite*     : letöltött tartalmat filterezi és kiírja egy file-ba
+**Title osztály**: egy tulajdonságot tartalmaz ez a text
+**Metódusok**:
+-- *webmapper*     : letölti és html alapon parsol-ja a tartalmat
+-- *printFiltered* : letöltött tartalmat filterezi és kiírja kimenetre
+-- *fileWrite*     : letöltött tartalmat filterezi és kiírja egy file-ba
 
 ## License
 MIT
