@@ -16,7 +16,6 @@ A script az OOP elveket figyelembe véve készült.
 
 - **main.py**
 A script indítását végzi, a szükséges változókat definiálja és metódusokat hív meg.
- 
 Változók:
 *url*       : a feltérképezendő weboldal címe
 *level*     : tartalom elem szint filter definiálása
@@ -25,7 +24,6 @@ Változók:
 
 - **loader.py**
 A különböző műveletek és a *Title* osztály definiálása.
- 
 Title osztály: egy tulajdonságot tartalmaz ez a text
 Metódusok:
 *webmapper*     : letölti és html alapon parsol-ja a tartalmat
