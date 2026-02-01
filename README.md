@@ -6,6 +6,7 @@ DevOps beadandó feladat weboldal címkészlet feldolgozásról.
  - **Python** : python 3
  - **Python | requests** : py requests modul
  - **Python | BeautifulSoup4** : py BeautifulSoup4 modul
+ - **Python | io** : py io modul (UTF8 kódolás)
 
 ## Futtatás
 Futtatáshoz használd a main.py -t.
