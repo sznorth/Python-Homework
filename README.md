@@ -1,4 +1,4 @@
-# Python Homework 
+# Python Homework
 DevOps beadandó feladat weboldal címkészlet feldolgozásról.
 
 ### Függőségek
