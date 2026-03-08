@@ -1,4 +1,4 @@
-# Python Homework 
+# Python Homework
 DevOps beadandó feladat weboldal címkészlet feldolgozásról.
 
 ### Függőségek
@@ -9,7 +9,22 @@ DevOps beadandó feladat weboldal címkészlet feldolgozásról.
  - **Python | io** : py io modul (UTF8 kódolás)
 
 ## Futtatás
-Futtatáshoz használd a main.py -t.
+1. Győződj meg róla, hogy telepítve van a Python 3.8+.
+2. Hozz létre és aktiválj egy virtuális környezetet (PowerShell):
+```powershell
+python -m venv .venv
+.\.venv\Scripts\activate
+```
+
+3. Telepítsd a futtatáshoz szükséges csomagokat:
+```powershell
+pip install -r requirements.txt
+```
+
+4. Futtasd a szkriptet:
+```powershell
+python main.py
+```
 
 ## Felépítés
 A script az OOP elveket figyelembe véve készült.
